@@ -44,7 +44,7 @@
  */
 + (NSMutableDictionary *)relationships;
 
-/**
+/**[NS
  * The relationship names for this class including the names of all superclasses.
  */
 + (NSArray *)relationshipNames;

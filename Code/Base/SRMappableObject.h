@@ -17,7 +17,7 @@
 /**
  * The object mapping for the class.
  */
-+ (NSObject<RKObjectMappingDefinition> *)objectMapping;
++ (RKObjectMappingDefinition*)objectMapping;
 
 /**
  * The inverse object mapping used for serialization.
